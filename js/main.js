@@ -61,8 +61,8 @@ ScrollReveal().reveal(".home-content p,.about-content", {
 const typed = new Typed(".multiple-text", {
   strings: [
     "Magia Team",
-    "Abdallh elzayat",
     "Hamdy Mohamed",
+    "Abdallh elzayat",
     "Hessien Nasser",
     "Magdey Elsayed",
   ],
